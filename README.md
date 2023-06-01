@@ -1,2 +1,6 @@
 # Simulation-ecosysteme
-Ceci est un programme codé en Java, simulant un écosystème, 
+Pour compiler le code : 
+	cd ecosysteme
+	javac *.java
+Pour exécuter le programme : 
+	java Main
